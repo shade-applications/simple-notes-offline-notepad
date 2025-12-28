@@ -1,0 +1,53 @@
+export const Colors = {
+  light: {
+    text: '#000000',
+    background: '#FFFFFF',
+    tint: '#2f95dc',
+    tabIconDefault: '#ccc',
+    tabIconSelected: '#2f95dc',
+    card: '#F8F9FA',
+    border: '#E9ECEF',
+    placeholder: '#6C757D',
+    error: '#DC3545',
+  },
+  dark: {
+    text: '#FFFFFF',
+    background: '#121212', // Material Dark
+    tint: '#fff',
+    tabIconDefault: '#ccc',
+    tabIconSelected: '#fff',
+    card: '#1E1E1E',
+    border: '#2C2C2C',
+    placeholder: '#ADB5BD',
+    error: '#CF6679',
+  },
+  amoled: {
+    text: '#FFFFFF',
+    background: '#000000',
+    tint: '#fff',
+    tabIconDefault: '#ccc',
+    tabIconSelected: '#fff',
+    card: '#000000',
+    border: '#333333',
+    placeholder: '#ADB5BD',
+    error: '#CF6679',
+  },
+  tags: {
+    red: '#FFCDD2',
+    orange: '#FFE0B2',
+    yellow: '#FFF9C4',
+    green: '#C8E6C9',
+    blue: '#BBDEFB',
+    purple: '#E1BEE7',
+    gray: '#F5F5F5',
+  },
+  tagText: {
+    red: '#B71C1C',
+    orange: '#E65100',
+    yellow: '#F57F17',
+    green: '#1B5E20',
+    blue: '#0D47A1',
+    purple: '#4A148C',
+    gray: '#212121',
+  }
+};
